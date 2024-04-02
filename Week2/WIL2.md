@@ -6,4 +6,4 @@ branch
 pull request
 merge
 
-https://github.com/Yunjanghyeon/2024-1-Beginner-Study/pull/2
+https://github.com/Yunjanghyeon/2024-1-Beginner-Study/pull/3
