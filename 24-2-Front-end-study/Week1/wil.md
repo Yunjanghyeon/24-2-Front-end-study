@@ -8,4 +8,4 @@ HyperText:문서를 넘어서
 
 Tag 예시: <tagname>암거나</tagname>
 
-링크걸기:  <a href="/abc.html">ㅋㅋ</a>
+링크걸기:  <a href="/abc.html">abc</a>
