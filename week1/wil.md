@@ -17,4 +17,4 @@ Tag 예시: <tagname>암거나</tagname>
 <a href="/abc.html">abc</a>
 이렇게 작성함으로서 링크를 남길 수 있습니다.
 아 그리고 naver,google 등 페이지에도 뒤에 /html이 생략됐다는 것을 알았습니다.
-http://127.0.0.1:5500/Week1/index.html 링크입니다
+https://lucky-daffodil-15a79b.netlify.app/ 링크입니다

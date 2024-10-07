@@ -1,4 +1,4 @@
-## GDSC에서 진행중인 Front-End Study 의 Weekly-I-Learned(WIL) 3회차
+## GDSC에서 진행중인 Front-End Study 의 Weekly-I-Learned(WIL) 2회차
 
 이번 스터디에서는 HTML의 친구인 **CSS**를 배웠습니다.
 
@@ -71,4 +71,4 @@ h1, h2, h3, h4, h5, h6
 
 참고로 색상은 RGB 혹은 HEX CODE로 정의할 수 있습니다.
 
-# [자기소개 페이지로 이등하기](http://127.0.0.1:5500/week3/index.html)
+# [자기소개 페이지로 이등하기](https://zippy-macaron-1f3225.netlify.app/)
