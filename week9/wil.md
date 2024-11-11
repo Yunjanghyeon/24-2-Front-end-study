@@ -50,5 +50,4 @@ npm start
 아 글고 실습도 했어요
 
 어 근데 링크가
-([create-react-app-five-phi-45.vercel.app](https://create-react-app-yunjanghyeons-projects.vercel.app/)) 이거 혹은
-create-react-4pixm1c5v-yunjanghyeons-projects.vercel.app 이건가
+([create-react-app-five-phi-45.vercel.app](https://create-react-app-yunjanghyeons-projects.vercel.app/)) 맞나
