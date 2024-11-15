@@ -48,4 +48,4 @@ TMI: JSX는 JS기반이라 변수명에 '-' 못넣어서 카멜케이스로 글�
 4. 가공된 rgb 값 스타일 작업
 5. 스타일을 태그에 적용
 
-[링크](24week10-yunjanghyeons-projects.vercel.app)
+[링크](https://24week10-yunjanghyeons-projects.vercel.app)
