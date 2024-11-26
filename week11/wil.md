@@ -47,4 +47,4 @@ useEffect는 외부의 효과를 랜더링과 분리하기 위해 존재
 - 웹 접근성: 인적, 환경적 요인에 제약이 없은 웹 정보 접근, 장애인이든 뭐든 모두가 쉽게 사용할수있는 WEB 지향
 
 
-[링크](https://week11-yunjanghyeons-projects.vercel.app)
+[링크](https://24-2-front-end-study-1p4v.vercel.app/)
